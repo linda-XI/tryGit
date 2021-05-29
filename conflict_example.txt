@@ -1,0 +1,5 @@
+This is a file just to test how conflicts are resolved in Git.
+
+System.out.println("Hello, World!");
+System.out.println("Hello,World Again!");
+System.out.println("Repetitive Hello, World!");
