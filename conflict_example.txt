@@ -1,6 +1,9 @@
 This is a file just to test how conflicts are resolved in Git.
 
-System.out.println("Hello, lalala!");
+<<<<<<< HEAD
+System.out.println("Hello, fix!");
+=======
+>>>>>>> ff7894968c5e4b4aaa2f07b11584a8f183495002
 System.out.println("Hello,World Again!");
 System.out.println("Repetitive Hello, World!");
 
